@@ -1,6 +1,9 @@
 Felix programmeert
 dit en 
 van alles
+
+Felix : Dit heb ik erbij geschreven
+
 bijvoorbeeld
 
 Reindert: text van reindert!
