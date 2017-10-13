@@ -1,11 +1,15 @@
 Felix programmeert
 dit en 
-van alles
+vanalles
+
 
 Felix : Dit heb ik erbij geschreven
 
 bijvoorbeeld
 
+
+
+#Karen is hier
+
 Reindert: text van reindert!
 supermarkt
-
